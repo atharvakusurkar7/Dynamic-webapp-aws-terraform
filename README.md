@@ -1,4 +1,4 @@
-Deploy Dynamic Web App on AWS with Terraform Docker Amazon ECR & ECS
+**Deploy Dynamic Web App on AWS with Terraform Docker Amazon ECR & ECS**
 Project Overview
 This project demonstrates how to deploy a dynamic web application on AWS using Terraform for infrastructure as code, Docker for containerization, and Amazon ECR and ECS for container orchestration. The architecture is designed to be scalable, highly available, and secure, leveraging various AWS services to achieve these goals.
 
