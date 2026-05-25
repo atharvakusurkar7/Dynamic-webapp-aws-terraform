@@ -97,6 +97,7 @@ Initialize Terraform with AWS environment using terraform init after all configu
 VPC and Networking:
 
 Create a 3-tier VPC with public and private subnets across two availability zones.  
+images/18-create vpc.PNG
 Set up NAT Gateways and Route Tables to manage traffic between public and private subnets. 
 Security Groups:
 
